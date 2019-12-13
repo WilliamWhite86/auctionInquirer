@@ -1,0 +1,24 @@
+{
+  "name": "auctionInquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamWhite86/auctionInquirer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamWhite86/auctionInquirer/issues"
+  },
+  "homepage": "https://github.com/WilliamWhite86/auctionInquirer#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
